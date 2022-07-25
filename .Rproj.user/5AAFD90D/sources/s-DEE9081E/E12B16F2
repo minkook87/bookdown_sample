@@ -1,0 +1,24 @@
+{
+    "id": "E12B16F2",
+    "path": "~/bookdown_sample/02-cross-refs.Rmd",
+    "project_path": "02-cross-refs.Rmd",
+    "type": "r_markdown",
+    "hash": "3698781651",
+    "contents": "",
+    "dirty": false,
+    "created": 1658726347185.0,
+    "source_on_save": false,
+    "relative_order": 4,
+    "properties": {
+        "source_window_id": "",
+        "Source": "Source"
+    },
+    "folds": "",
+    "lastKnownWriteTime": 1658726142,
+    "encoding": "UTF-8",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1658726355819,
+    "read_only": false,
+    "read_only_alternatives": []
+}
