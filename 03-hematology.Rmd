@@ -1,0 +1,125 @@
+# Hematology
+
+## Blood
+ 
+*Blood consists of a protein-rich fluid known as plasma, in which are suspended cellular elements: white blood cells, red blood cells, and platelets.
+*8% of the body weight (5600mL in a 70kg man)
+ 
+
+*55% of volume is plasma, 45% of volume is cellular components.
+*Serum = Plasma – clotting factors
+*Blood cell production
+: yolk sac  liver  spleen, lymph nodes  bone marrow
+ 
+
+ 
+*Pluripotent Hematopoietic stem cells (PHSCs) are bone marrow cells that are capable of producing all types of blood cells.
+Blood cell	Cell size
+Erythrocyte	6.5 ~ 8 μm
+Leukocyte	
+Neutrophil, Eosinophil, Basophil	12 ~ 15 μm
+Lymphocyte	6 ~ 18 μm
+Monocyte	12 ~ 20 μm
+Platelet	2 ~ 4 μm
+
+*Blood viscosity
+Viscosity (mPa/s) =  (shear stress (mPa))/(shear rate (s))
+ Viscosity, the reciprocal of fluidity, is the frictional blow resistance between layers that must be overcome by a driving force to cause shearing and hence flow.
+ Blood is defined as a non-Newtonian fluid. Its non-Newtonian behavior is principally due to red cell aggregation at low shear rates and red cell deformation at high shear rates.
+*Relationship between shear rate and viscosity in a Newtonian fluid and blood.
+ 
+*Mechanism of shear rate dependence of blood viscosity.
+ 
+The two most important parameters that influence the blood viscosity profile are hematocrit and plasma proteins (fibrinogen); lipid profiles such as LDL-C, HDL-C and triglyceride also affect low-shear blood viscosity more poignantly than high-shear viscosity.
+
+## Red Blood Cells (Erythrocytes)
+  
+① Biconcave discs, diameter 7~8μm, thickness 2~2.5μm,
+center thickness 1μm or less
+
+ 
+② Hemoglobin is a globular molecule made up of four subunits. In normal adult human hemoglobin (hemoglobin A), the two polypeptides are called α chains, and β chains. Thus, hemoglobin A is designated α2β2. 
+ 
+
+ 
+③ RBCs have lived their life span of about 120 days.
+ 
+ 
+④ In mammals, RBCs lose their nuclei before entering the circulation. 
+⑤ Spleen is an important blood filter that removes aged or abnormal RBCs.
+ 
+
+ 
+ 
+ 
+
+ 
+
+⑥ A major function of RBCs is to transport hemoglobin, which in turn carries oxygen from the lungs to the tissues.
+⑦ RBCs contain a large quantity of carbonic anhydrase (CO2, H2CO3), RBCs are excellent acid-base buffers
+⑧ The shapes of RBCs can change remarkably as the cells squeeze through capillaries.
+ 
+⑨ Hematocrit: percentage of the blood, by volume, that is occupied by RBCs.
+⑩ O2 binds to the Fe2+ in the heme moiety of hemoglobin to form oxyhemoglobin. The ferrous iron (Fe2+) that is normally present in hemoglobin is converted to ferric iron (Fe3+), forming methemoglobin. Carbon monoxide reacts with hemoglobin to form carbon monoxyhemoglobin (carboxyhemoglobin).
+⑪ When old RBCs are destroyed by tissue macrophages, the globin portion of the hemoglobin molecule is split off, and the heme is converted to biliverdin. In humans, most of the biliverdin is converted to bilirubin and excreted in the bile. The iron from the heme is reused for hemoglobin synthesis.
+⑫ Tissue oxygenation is the most essential regulator of RBCs production. Erythropoietin stimulates RBCs production and its formation increases in response to hypoxia.
+ 
+ 
+⑫ Especially, important for final maturation of the red blood cells are two vitamins, vitamin B12 and folic acid. Both of these are essential for the synthesis of DNA. Therefore, lack of either vitamin B12 or folic acid causes abnormal and diminished DNA and, consequently, failure of nuclear maturation and cell division. 
+⑬ Dangerous hemolytic transfusion reactions occur when blood is transfused into an individual with an incompatible blood type. That is, an individual who has agglutinins against the red cells in the transfusion.
+ 
+⑭ Persons with type AB blood are “universal recipients” because they have no circulating agglutinins and can be given blood of any type without developing a transfusion reaction due to ABO incompatibility. Type O individuals are “universal donors” because they lack A and B antigens, and type O blood can be given to anyone without producing a transfusion reaction due to ABO incompatibility.
+ 
+⑮ Aside from the antigens of the ABO system, those of the Rh system are of the greatest clinical importance. The Rh factor is a system composed primarily of the C, D, and E antigens, although it actually contains many more. D is by far the most antigenic component, and the term Rh positive as it is generally used means that the individual has agglutinogen D. The Rh-negative individual has no D antigen and forms the anti-D agglutinin when injected with D-positive cells. Unlike the antibodies of the ABO system, anti-D antibodies do not develop without exposure of a D-negative individual to D-positive red cells by transfusion or entrance of fetal blood into the maternal circulation.
+
+ 
+
+ 
+ 
+ 
+## White blood cells (Leukocytes)
+ 
+① The granulocytes (Polymorphonuclear leukocytes, PMNs) are the most numerous.
+② Acting together, these cells provide the body with the powerful defenses against tumors and viral, bacterial, and parasitic infections.
+③ The life of the granulocytes after being released from the bone marrow is normally 4 to 8 hours circulating in the blood and another 4 to 5 days in tissues where they are needed.
+
+## Platelets
+① Platelets lack nuclei and are 2–4 μm in diameter
+② There are about 300,000/μL of circulating blood, and they normally have a half-life of about 4 days.
+③ The megakaryocytes, giant cells in the bone marrow, form platelets by pinching off bits of cytoplasm and extruding them into the circulation.
+
+## Plasma
+① Normal plasma volume is about 5% of body weight, or roughly 3500 mL in a 70kg man. Plasma clots on standing, remaining fluid only if an anticoagulant is added.
+② The plasma proteins consist of albumin, globulin, and fibrinogen fractions. Most capillary walls are relatively impermeable to the proteins in plasma, and the proteins therefore exert an osmotic force of about 25 mmHg across the capillary wall (oncotic pressure) that pulls water into the blood.
+③ Prolonged starvation and in malabsorption syndromes due to intestinal diseases, plasma protein levels are low (hypoproteinemia). They are also low in liver disease, because hepatic protein synthesis is depressed, and in nephrosis, because large amounts of albumin are lost in the urine. Because of the decrease in the plasma oncotic pressure, edema tends to develop.
+ 
+
+## Hemostasis and Blood Coagulation
+*Whenever a vessel is severed or ruptured, hemostasis is achieved by several mechanisms:
+(1) vascular constriction
+(2) formation of a platelet plug
+(3) formation of a blood clot as a result of blood coagulation
+(4) eventual growth of fibrous tissue into the blood clot to close the hole in the vessel permanently.
+ 
+① When a small blood vessel is transected or damaged, the injury initiates a series of events that lead to the formation of a clot. The initial event is constriction of the vessel and formation of a temporary hemostatic plug of platelets that is triggered when platelets bind to collagen and aggregate.
+② The loose aggregation of platelets in the temporary plug is bound together and converted into the definitive clot by fibrin. Fibrin formation involves a cascade of enzymatic reactions and a series of numbered clotting factors. The fundamental reaction is conversion of the soluble plasma protein fibrinogen to insoluble fibrin.
+③ The conversion of fibrinogen to fibrin is catalyzed by thrombin. Thrombin is a serine protease that is formed from its circulating precursor, prothrombin, by the action of activated factor X.
+④ Factor X can be activated by either of two systems, known as intrinsic and extrinsic.
+ 
+
+⑤ Antithrombin III is a circulating protease inhibitor that binds to serine proteases in the coagulation system, blocking their activity as clotting factors. This binding is facilitated by heparin. The complex of heparin and antithrombin III removes several other activated coagulation factors in addition to thrombin, further enhancing the effectiveness of anticoagulation. The others include activated Factors XII, XI, X, and IX. The action of heparin lasts about 1.5 to 4 hours.
+⑥ All endothelial cells produce thrombomodulin, a thrombin-binding protein, on their surfaces. In circulating blood, thrombin is a procoagulant, but when it binds to thrombomodulin, it becomes an anticoagulant in that the thrombomodulin–thrombin complex activates protein C. Activated protein C (APC), along with its cofactor protein S, inactivates factors V and VIII and inactivates an inhibitor of tissue plasminogen activator, increasing the formation of plasmin.
+⑦ Plasmin (fibrinolysin) is the active component of the plasminogen
+(fibrinolytic) system
+ 
+
+⑧ Heparin is a naturally occurring anticoagulant that facilitates the action of antithrombin III.
+⑨ Coumarin derivatives such as warfarin are also effective anticoagulants. They inhibit the action of vitamin K, which is a necessary cofactor. Vitamin K-dependent proteins are factors II (prothrombin), VII, IX, and X, protein C, and protein S. Normal coagulation usually returns 1 to 3 days after discontinuing coumarin therapy.
+
+ 
+
+ 
+
+
+
+

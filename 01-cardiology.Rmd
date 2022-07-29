@@ -1,0 +1,1009 @@
+# Cardiology
+
+1.1 Cellular structure and function of the heart <br>
+1.2 Electrical activity of the Heart <br>
+1.3 Mechanisms of Arrhythmia <br>
+1.4 Cardiac function <br>
+1.5 Heart sound <br>
+1.6 Vascular function <br>
+1.7 Exchange Function of the Microcirculation <br>
+1.8 Cardiovascular pathophysiology <br>
+
+## Cellular structure and function of the heart
+
+① The basic contractile unit of a cardiac myocyte is the **sarcomere**, which contains thick filaments (*myosin*) and thin filaments (*actin, troponin, and tropomyosin*) that are involved in muscle contraction.
+
+<center>![](figures/01.png)</center> <br>
+<center>![](figures/02.png)</center> <br>
+
+② The thick filaments are composed of myosin molecules, with each molecule having two myosin heads, which serve as the site of the myosin ATPase. Thin filaments are composed of actin, tropomyosin, and regulatory proteins (*troponin complex, TN*) having three subunits: **TN-T** (binds to tropomyosin), **TN-C** (binds to calcium ions), and **TN-I** (inhibitory troponin, which inhibits myosin binding to actin). Calcium binding to TN-C produces a conformation change in the troponin–tropomyosin complex that exposes a myosin-binding site on the actin, leading to ATP hydrolysis.
+
+<center>![](figures/03.png) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+![](figures/04.png)</center> <br>
+<center>![](figures/05.png)</center> <br>
+<center>![](figures/06.png)</center> <br>
+
+>**Summary of Excitation-Contraction Coupling**
+>
+>[1] Ca++ enters cell through voltage-gated Ca++ channels during depolarization, which triggers release of Ca++ into the cytoplasm through calcium release channels (*ryanodine receptors, RyR*) located on the terminal cisternae.
+>
+>[2] Ca++ binds to TN-C, inducing a conformational change in the troponin complex that exposes myosin-binding sites on actin.
+>
+>[3] Myosin heads bind to actin, leading to cross-bridge movement (requires ATP hydrolysis) and reduction in sarcomere length.
+>
+>[4] Ca++ is resequestered by sarcoplasmic reticulum by **sarcoendoplasmic reticulum calcium ATPase** (*SERCA pump*) that is inhibited by phospholamban.
+>
+>[5] Ca++ is removed from TN-C, and myosin unbinds from actin (requires ATP); this allows the sarcomere to resume its original, relaxed length.
+
+<br>
+
+<center>![](figures/07.png)</center> <br>
+
+>*Abbreviation. R, receptor; Gs, stimulatory G-protein; Gi, inhibitory G-protein; Gq, phospholipase C–coupled G-protein; AC, adenylyl cyclase; PL-C, phospholipase C; PIP2, phosphatidylinositol 4,5-bisphosphate; DAG, diacylglycerol; PK-C, protein kinase C; PK-A, protein kinase A; SR, sarcoplasmic reticulum; ATP, adenosine triphosphate; NE, norepinephrine; AII, angiotensin II; ET-1, endothelin-1; Epi, epinephrine; ACh, acetylcholine; Ado, adenosine.
+
+<br>
+
+③ **Inotropy** can be increased by <br>
+ - increasing Ca++ influx through L-type Ca++ channels (*site 1*) <br>
+ - increasing release of Ca++ by the sarcoplasmic reticulum (*site 2*) <br>
+ - increasing troponin C (TN-C) affinity for Ca++ (*site 3*) <br>
+ - increasing myosin ATPase activity through phosphorylation of myosin heads (*site 4*) <br>
+ - increasing SERCA activity by phosphorylation of phospholamban (*site 5*) <br>
+ - inhibiting Ca++ efflux across the sarcolemma (*site 6*)
+
+<br>
+
+④ The two major pathways involve formation of either cyclic adenosine monophosphate (*cAMP*) or inositol 1,4,5-triphosphate (*IP3*), both of which affect Ca++ release by sarcoplasmic reticulum and therefore affect contraction.
+
+<br>
+
+⑤ Excitation–contraction coupling is initiated by depolarization of the cardiac myocyte and is controlled by changes in **intracellular calcium**, which binds to regulatory proteins on the thin filaments; ATP is required for contraction and relaxation.
+
+<br>
+
+⑥ Relaxation of cardiac myocytes (*lusitropy*) is primarily regulated by the reuptake of calcium into the sarcoplasmic reticulum by the SERCA pump.
+
+<center>![](figures/08.png)</center> <br>
+
+<center>![](figures/09.png)</center> <br>
+
+⑦ Arteries and veins are arranged as three layers: *adventitia*, *media*, and *intima*. Autonomic nerves and small blood vessels (vasa vasorum in large vessels) are found in the adventitia; vascular smooth muscle is found in the media; and the intima is lined by the endothelium.
+
+<br>
+<center>![](figures/10.png)</center> <br>
+
+⑧ Vascular smooth muscle contains actin and myosin; however, these components are not arranged in the same repetitive pattern as that found in cardiac myocytes. Unlike cardiac muscle contraction, vascular smooth muscle contraction is slow and sustained.
+
+<br>
+<center>![](figures/11.png)</center> <br>
+
+⑨ Increased intracellular calcium, by either increased entry into the cell (through L-type Ca++ channels) or release from the sarcoplasmic reticulum, forms a complex with **calmodulin**, activating myosin light chain kinase (*MLCK*), which phosphorylates myosin light chains (*MLC*), causing contraction. Dephosphorylation of myosin light chains by myosin light chain phosphatase (*MLCP*) produces relaxation.
+
+<br>
+<center>![](figures/12.png)</center> <br>
+
+>*Abbreviation. R, receptor; Gs, stimulatory G-protein; Gq, phospholipase C–coupled G-protein; IP3, inositol triphosphate; SR, sarcoplasmic reticulum; MLCK, myosin light chain kinase; MLCP, myosin light chain phosphatase; NO, nitric oxide; GC, guanylyl cyclase; GTP, guanosine triphosphate; ATP, adenosine triphosphate; cAMP, cyclic adenosine monophosphate; cGMP, cyclic guanosine monophosphate; α1, alpha-1-adrenoceptor; ETA, endothelin-1 type A receptor; V1, vasopressin type 1 receptor; AT1, angiotensin type 1 receptor; M3, muscarinic type 3 receptor β2, beta-2-adrenoceptor; A2, adenosine type 2 receptor; IP, prostacyclin (prostaglandin I2) receptor; α2, alpha-2-adrenoceptor.
+
+<br>
+
+⑩ **Cardiac muscle contraction** is regulated by various substances that bind to receptors coupled to G-proteins. Vascular smooth muscle contraction/relaxation is additionally regulated by NO/cGMP-dependent pathways. All these pathways largely affect contraction/relaxation primarily by regulating intracellular calcium and/or by altering protein phosphorylation. 
+
+<br>
+
+|G-Protein (Response)|Secondary messenger pathway|Receptor|Biological Agonist|
+|---|---|---|---|
+|**Gs-protein (relaxation)**|↑cAMP|β2|*Epinephrine*|
+|||A2|*Adenosine*|
+|||IP|*Prostacyclin*|
+|**Gi-protein (contraction)**|↓cAMP|α2|*Norepinephrine and epinephrine*|
+|**Gq-protein (contraction)**|↑IP3|α1|*Epinephrine*|
+||↑Rho-kinase|ETA|*Endothelin-1*|
+|||AT1|*Angiotensin II*|
+|||V1|*Vasopressin*|
+|||M3|*Acetylcholine*|
+
+
+>*Abbreviation. Gs, stimulatory G-protein; Gi, inhibitory G-protein; Gq, phospholipase C–coupled G-protein; cAMP, cyclic adenosine monophosphate; IP3, inositol 1,4,5-triphosphate; β2, beta-2-adrenoceptor; A2, adenosine type 2 receptor; IP, prostacyclin (prostaglandin I2) receptor; α2, alpha-2-adrenoceptor; α1, alpha-1-adrenoceptor; ETA, endothelin-1 type A receptor; AT1, angiotensin type 1 receptor; V1, vasopressin type 1 receptor, M3, muscarinic type 3 receptor.
+
+<br>
+
+<center>![](figures/13.png)</center> <br>
+
+⑪ The vascular endothelium synthesizes **nitric oxide and prostacyclin**, both of which relax vascular smooth muscle. **Endothelin-1**, which is also synthesized by the endothelium, contracts vascular smooth muscle. 
+
+## Electrical activity of the Heart
+
+① The **membrane potential** is determined primarily by the concentration of sodium, potassium, and calcium ions across the cell membrane, and by the relative conductances of the membrane to these ions.
+
+<br>
+
+② The resting membrane potential is very close to the potassium equilibrium potential (calculated from Nernst equation) because the relative conductance of potassium is much higher than the relative conductances of sodium and calcium in the resting cell.
+
+<center>![](figures/14.png)</center> 
+
+>Concentrations of K+, Na+, and Ca++ inside and outside a cardiac myocyte at a resting membrane potential of −90 mV.
+
+<br>
+
+③ Ions move across the cell membrane through ion-selective channels, which have open (activated) and closed (inactivated) states that are regulated either by membrane voltage or by receptor-coupled mechanisms.
+
+<center>![](figures/15.png)</center> <br>
+<center>![](figures/16.png)</center> <br>
+
+<br>
+
+④ Concentrations of sodium, potassium, and calcium across the cell membrane are maintained by the Na+/K+-ATPase pump, the Na+/Ca++ exchanger, and the Ca++-ATPase pump.
+
+<center>![](figures/17.png)</center> <br>
+<center>![](figures/18.png)</center> <br>
+
+>Phase 0 (depolarization) primarily is due to the rapid increase in sodium conductance (gNa) accompanied by a fall in potassium conductance (gK; K1 channel closing). <br>
+the initial repolarization of phase 1 is due to opening of transient outward potassium channels (gKto). <br>
+phase 2 (plateau) primarily is due to an increase in slow inward calcium conductance (gCa) through L-type Ca++ channels. <br> 
+phase 3 (repolarization) results from an increase in gK (Kr and Ks channels) and a decrease in gCa. <br>
+Phase 4 is a true resting potential that primarily reflects a high gK (K1 channels). ERP, effective refractory period.
+
+<br>
+
+<center>![](figures/19.png)</center> <br>
+
+|Channels|Characteristics|
+|---|---|
+|**Sodium**||
+|Fast Na+ (INa)|Phase 0 of myocytes|
+|Slow Na+ (If)|Contributes to phase 4 pacemaker current in SA and AV nodal cells|
+|**Calcium**||
+|L-type (ICa)|Slow inward, long-lasting current; phase 2 of myocytes and phases 4 and 0 of SA and AV nodal cells|
+|T-type (ICa)|Transient current; contributes to phase 4 pacemaker current in SA and AV nodal cells|
+|**Potassium**||
+|Inward rectifier (IK1)|Contributes to late phase 3 repolarization; maintains negative potential in phase 4; closes with depolarization|
+|Transient outward (Ito)|Contributes to phase 1 in myocytes|
+|Rapid delayed rectifier (IKr)|Phase 3 repolarization|
+|Slow delayed rectifier (IKs)|Phase 3 repolarization|
+
+<br>
+
+⑤ Nonpacemaker cardiac action potentials are characterized as having very negative resting potentials (~90 mV), a rapid phase 0 depolarization produced primarily by a transient increase in sodium conductance, and a prolonged plateau phase (phase 2) generated primarily by inward calcium currents through L-type calcium channels; increased potassium conductance repolarizes the cells during phase 3.
+
+<center>![](figures/20.png)</center> <br>
+
+> Phase 0 (depolarization) primarily is due to an increase in calcium conductance (gCa) through L-type Ca++ channels accompanied by a fall in potassium conductance (gK). <br>
+Phase 3 (repolarization) results from an increase in gK (Kr and Ks channels open) and a decrease in gCa. <br>
+Phase 4 undergoes a spontaneous depolarization owing to a pacemaker current (If) carried in part by slow inward Na+ currents; decreased gK and increased gCa (T-type and L-type Ca++ channels) also contribute to the spontaneous depolarization.
+
+<br>
+
+⑥ Pacemaker action potentials (e.g., those found in SA nodal cells) spontaneously depolarize during phase 4, owing in part to special pacemaker currents (If). Upon reaching the threshold for action potential generation, calcium conductance increases as L-type calcium channels become activated, which causes depolarization (phase 0). As the calcium channels close, potassium conductance increases and the cell repolarizes (phase 3).
+
+<br>
+
+<center>![](figures/21.png)</center> <br>
+
+⑦ At rest, SA nodal pacemaker activity is strongly influenced by vagal activity (vagal tone), which significantly reduces the intrinsic SA nodal firing rate. Pacemaker activity is increased by sympathetic activation and vagal inhibition.
+
+<br>
+
+|HR Increasing|HR Decreasing|
+|---|---|
+|Sympathetic stimulation|Parasympathetic stimulation|
+|Muscarinic receptor antagonist|Muscarinic receptor agonists|
+|β-Adrenoceptor agonists|β-Blockers|
+|Circulating catecholamines|Ischemia/hypoxia|
+|Hypokalemia|Hyperkalemia|
+|Hyperthyroidism|Sodium and calcium channel blockers|
+|Hyperthermia|Hypothermia|
+
+<br>
+
+<center>![](figures/22.png)</center> <br>
+
+>Cardiac cells are connected together by low-resistance gap junctions between the cells, forming a functional syncytium. When one cell depolarizes, depolarizing currents can pass through the gap junctions (red arrows) and depolarize adjacent cells, resulting in a cell-to-cell propagation of action potentials.
+
+<br>
+
+⑧ Conduction of action potentials within the heart is primarily cell to cell, although specialized conduction pathways exist within the heart that ensure rapid distribution of the conducted action potentials. Conduction velocity is increased by activation of sympathetic nerves and decreased by parasympathetic activation.
+
+<br>
+
+<center>![](figures/23.png)</center> <br>
+
+> Approximate conduction velocities of different regions are noted in parentheses. Note that Purkinje fibers have the highest conduction velocity and the atrioventricular (AV) node has the lowest conduction velocity.
+
+<br>
+
+⑨ The low conduction velocity within the AV node ensures sufficient time for atrial contraction to contribute to ventricular filling.
+
+<br>
+
+<center>![](figures/24.png)</center> <br>
+<center>![](figures/25.png)</center> <br>
+
+⑩ Cells located within the AV node and ventricular conducting system can also serve as pacemakers if the SA node fails or conduction is blocked between the atria and ventricles (AV block).
+
+<br>
+
+<center>![](figures/26.png)</center> <br>
+
+⑪ Different ECG leads view the electrical activity of the heart from different angles. Each limb lead can be represented by an electrical axis on a frontal plane from which the direction of depolarization and repolarization vectors within the heart can be determined using standard rules of interpretation (e.g., a wave of depolarization traveling toward a positive electrode produces a positive voltage in the ECG). Chest leads (V1 to V6) measure the electrical activity in a horizontal plane that is perpendicular to the frontal plane.
+
+<br>
+
+<center>![](figures/27.png)</center> <br>
+
+> Individual instantaneous vectors of depolarization (black arrows) spread across the atria after the sinoatrial (SA) node fires. The mean electrical vector (red arrow) represents the sum of the individual vectors at a given instant in time.
+
+<br>
+
+<center>![](figures/28.png)</center> <br>
+<center>![](figures/29.png)</center> <br>
+<center>![](figures/30.png)</center> <br>
+<center>![](figures/31.png)</center> <br>
+<center>![](figures/32.png)</center> <br>
+
+> An enlargement of one of the repeating waveform units in the rhythm strip shows the P wave, QRS complex, and T wave, which represent atrial depolarization, ventricular depolarization, and ventricular repolarization, respectively. The PR interval represents the time required for the depolarization wave to transverse the atria and the AV node; the QT interval represents the time period encompassing ventricular depolarization and repolarization; and the ST segment is an isoelectric period when the entire ventricle is depolarized. Each small square is 1 mm and represents 0.04 seconds and 0.1 mV.
+
+<br>
+
+⑫ The ECG evaluates rhythm and conduction by examining the appearance (amplitude, duration, and shape) of specific waveforms that represent atrial depolarization (P wave), ventricular depolarization (QRS complex), and ventricular repolarization (T wave).
+
+<center>![](figures/33.png)</center> <br>
+
+> A. Ventricles prior to depolarization; isoelectric (zero) voltage recorded by leads aVL and II. <br>
+B. Septal depolarization; voltage aVL < II. <br>
+C. Apical depolarization; voltage aVL < II. <br>
+D. Left ventricular depolarization (primarily); voltage aVL > II. E. Left ventricular depolarization; voltage in aVL > II. <br>
+F. Ventricles completely depolarized; isoelectric voltage in aVL and II. <br>
+*Red arrow represents mean electrical axis.
+
+<br>
+
+<center>![](figures/34.png)</center> <br>
+<center>![](figures/35.png)</center> <br>
+<center>![](figures/36.png)</center> <br>
+<center>![](figures/37.png)</center> <br>
+<center>![](figures/38.png)</center> <br>
+<center>![](figures/39.png)</center> <br>
+<center>![](figures/40.png)</center> <br>
+<center>![](figures/41.png)</center> <br>
+<center>![](figures/42.png)</center> <br>
+
+>Depolarization occurs from subendocardium (Endo; inner wall) to subepicardium (Epi; outer wall) (black arrow). Although Endo action potentials appear before Epi action potentials, Endo cells normally have a much longer action potential duration than do Epi cells. Therefore, Epi cells repolarize before Endo cells causing the repolarizing vector to spread from Epi to Endo and away from the recording electrode, which results in a positive (upright) T wave.
+
+<br>
+
+<center>![](figures/43.png)</center> <br>
+
+>Tissue hypoxia resulting from ischemia depolarizes resting membrane potential (less negative phase 4), reduces the slope of phase 0 and the maximal depolarization voltage, and decreases the action potential duration by shortening phase 2 and causing earlier phase 3.
+
+<br>
+
+⑬ Cardiac ischemia alters pacemaker and nonpacemaker action potentials through changes in ion gradients, ion channel opening and closing, and ion pump activity. These changes lead to rate, rhythm, and conduction changes in the heart that can be evaluated by the ECG.
+
+<br>
+
+<center>![](figures/44.png)</center>
+<center>![](figures/45.png)</center>
+<center>![](figures/46.png)</center> <br>
+<center>![](figures/47.png)</center> <br>
+<center>![](figures/48.png)</center> <br>
+<center>![](figures/49.png)</center> <br>
+<center>![](figures/50.png)</center> <br>
+<center>![](figures/51.png)</center> <br>
+
+> **1. Calibration (voltage and speed):** standard: <br>
+Paper/tracing speed = 25 mm/second <br>
+1 mm (horizontal) = 0.04 second <br>
+1 mm (vertical) = 0.1 mV <br>
+**2. Calculate heart rate:** <br>
+Calculation: divide 300 by the number of large squares between RR intervals <br>
+Normal heart rate: 60–100/min <br>
+**3. Determine rhythm: normal sinus rhythm criteria:** <br>
+Normal P-wave morphology <br>
+A regular QRS complex follows every P wave <br>
+Normal, constant PR/RR intervals <br>
+**4. Determine timing intervals (PR, QRS, QTC):** <br>
+Manual calculation by measuring horizontal blocks <br>
+Electronic calculation by machine/software (usually listed in the top-left corner) <br>
+PR interval 0.12–0.2 second <br>
+QRS complex < 0.12 second <br>
+QTC interval 0.30–0.46 second <br>
+**5. Determine mean QRS axis:** <br>
+Direction of QRS deflection: <br>
+Positive: The mean electrical vector travels towards the positive electrode in a given lead. <br>
+Negative: The mean electrical vector travels away from the positive electrode in a given lead. <br>
+Normal: -30°–100° <br>
+Normally positive in lead II and lead aVF <br>
+**6. Evaluate P-wave morphology by voltage size and deflection:** <br>
+Normal time < 0.12 second <br>
+Normally upright in lead II and lead aVF <br>
+**7. Evaluate QRS morphology and/or voltage:** <br>
+Normal duration < 0.12 second <br>
+R wave should transition in amplitude in the precordial leads: <br>
+Lowest voltage in V1, Highest voltage in V6 <br>
+**8. Evaluate ST-segment and T-wave morphology:** <br>
+ST segment: <br>
+Flat, isoelectric segment after QRS complex, but before T wave <br>
+Normally no depression or elevation <br>
+T wave: normally concordant with QRS complex <br>
+**9. Compare with prior tracings if available.**
+
+<br>
+
+## Mechanisms of Arrhythmia
+⑭ Abnormal impulse formation
+1) Abnormal automaticity: It is possible for a nonpacemaker cell to be transformed into a slow response, pacemaker cell and thereby produce arrhythmias. ex) myocardial ischemia, digoxin.
+ 2) Triggered activity: Nonpacemaker cells may undergo spontaneous depolarizations either during late phase 2 through early in phase 4, triggering abnormal action potentials (termed afterdepolarization). Early afterdepolarizations occur during late phase 2 or phase 3. Delayed afterpolarizations occur at the end of phase 3 or early in phase 4.
+
+<br>
+
+<center>![](figures/52.png)</center> <br>
+
+⑮ Disorders of impulse conduction
+1) Conduction block: Conduction block or conduction delay is a frequent cause of bradyarrhythmias, especially if the conduction block is located in the cardiac conduction system.
+2) Tachycardia caused by reentry: Important criteria for the development of re-entry are a circular pathway with an area in this circle of unidirectional block and a trigger to induce the re-entry movement. ex) anatomical block, functional block due to myocardial ischemia.
+
+<br>
+
+<center>![](figures/53.png)</center>
+
+> With normal conduction of action potentials, impulses traveling down branches 1 and 2 cancel out each other in branch 3. Reentry can occur if branch 2 has impaired conduction and blocks orthograde impulses, but slowly conducts retrograde impulses. If a retrograde impulse emerging from branch 2 reaches excitable tissue (after the ERP, but before the next normal impulse), a premature action potential can be conducted down branch 1. If this occurs with successive action potentials, tachycardia occurs. *site of recording electrode.
+
+<br>
+
+<center>![](figures/54.png)</center>
+
+> Global reentry can occur between the atria and ventricles utilizing an accessory pathway in addition to the AV node. One such pathway is the bundle of Kent between the right atrium and right ventricle, which can lead to retrograde action potential conduction (in this illustration) through the AV node and cause premature excitation of atrial muscle and a supraventricular tachycardia. Local reentry circuits can occur within either the ventricles or atria and produce tachyarrhythmias.
+
+<br>
+
+<center>![](figures/55.png)</center>
+<center>![](figures/56.png)</center>
+<center>![](figures/57.png)</center>
+<center>![](figures/58.png)</center>
+<center>![](figures/59.png)</center>
+
+## Cardiac function
+
+<center>![](figures/60.png)</center>
+<center>![](figures/61.png)</center>
+
+> The seven phases of the cardiac cycle are (1) atrial systole; (2) isovolumetric contraction; (3) rapid ejection; (4) reduced ejection; (5), isovolumetric relaxation; (6) rapid filling; and (7) reduced filling. Sys, systole; Dias, diastole; AP, aortic pressure; LVP, left ventricular pressure; LAP, left atrial pressure; a, a wave; c, c wave; v, v wave; x, x descent; x′, x′ descent; y, y descent; LV, left ventricle; ECG, electrocardiogram; LVEDV, left ventricular end-diastolic volume; LVESV, left ventricular end-systolic volume; S1-S4, four heart sounds.
+
+<br>
+
+① The cardiac cycle is divided into two general phases: diastole and systole. Diastole refers to the period of time that the ventricles are undergoing relaxation and filling with blood from the atria. Ventricular filling is primarily passive, although atrial contraction has a variable effect on the final extent of ventricular filling (EDV). Systole represents the time when the ventricles are contracting and ejecting blood (SV). The volume of blood remaining in the ventricle at the end of ejection is the ESV.
+
+<br>
+
+② Normal heart sounds (S1 and S2) originate from abrupt closure of heart valves.
+
+<br>
+
+③ Ventricular SV is the difference between the end-diastolic and end-systolic volumes. Ventricular ejection fraction (EF) is calculated as the SV divided by the EDV.
+
+<center>![](figures/80.png)</center>
+
+> The left ventricular pressure–volume loop (**bottom panel**) is generated by plotting ventricular pressure against ventricular volume at many different corresponding time points during a single cardiac cycle (**upper panel**). a, ventricular filling; b, isovolumetric contraction; c, ventricular ejection; d, isovolumetric relaxation; EDV and ESV, left ventricular end-diastolic and end-systolic volumes, respectively; EDPVR, end-diastolic pressure–volume relationship; ESPVR, end-systolic pressure–volume relationship; SV, stroke volume (EDV-ESV).
+
+<br>
+
+<center>![](figures/81.png)</center>
+
+> **Left ventricular compliance (or filling) curves** The slope of the tangent of the passive pressure–volume curve at a given volume represents the reciprocal of the ventricular compliance. The slope of the normal compliance curve is increased by a decrease in ventricular compliance (e.g., ventricular hypertrophy), whereas the slope of the compliance curve is reduced by an increase in ventricular compliance (e.g., ventricular dilation). Decreased compliance increases the end-diastolic pressure (EDP) at a given end-diastolic volume (EDV), whereas increased compliance decreases EDP at a given EDV. LV, left ventricle.
+
+<br>
+
+④ Cardiac output is normally influenced more by changes in heart rate than by changes in SV; however, impaired regulation of SV can have a significant adverse affect on cardiac output, as occurs during heart failure.
+
+<center>![](figures/82.png)</center>
+
+> **Effects of increased preload on tension development by an isolated strip of cardiac muscle** The left side shows how muscle length and tension are measured in vitro. The bottom of the muscle strip is fixed to an immovable rod, whereas the top of the muscle is connected to a tension transducer and a movable bar that can be used to adjust initial muscle length (L). The right side shows how increased preload (initial length) increases both passive and total tension. The greater the preload (a to c), the greater the active tension (total minus passive tension) generated by the muscle.
+
+<br>
+
+<center>![](figures/83.png)</center>
+
+> **Length–tension relationship for cardiac muscle undergoing isometric contraction** Increasing the preload length from points a to c increases the passive tension. Furthermore, increasing the preload increases the total tension during contraction as shown by arrows a, b, and c, which correspond to active tension changes depicted by curves a, b, and c in above Figure. The length of the arrow is the active tension, which is the difference between the total and passive tensions. Therefore, active tension increases to a maximum value as preload increases.
+
+<br>
+
+<center>![](figures/84.png)</center>
+
+> **Effects of increasing ventricular volume (preload) on ventricular pressure development** Increasing ventricular volume from a to c and then stimulating the ventricle to contract isovolumetrically (clamped aorta) increases developed pressure and peak systolic pressure.
+
+<br>
+
+<center>![](figures/85.png)</center>
+
+> **Effects of increased initial muscle length (increased preload) on muscle shortening (isotonic contractions)** The left panel shows a muscle lifting the same load (afterload) at two different preload lengths (A and B). The right panel shows how increasing the preload leads to increased shortening (ΔL) and increased velocity of shortening (dL/dt; change in length with respect to time). The muscle shortens to the same minimal length when preload is increased.
+
+<br>
+
+<center>![](figures/86.png)</center>
+
+> **Frank-Starling mechanism** Increasing venous return to the left ventricle increases left ventricular end-diastolic pressure (LVEDP) by increasing ventricular volume; this increased preload increases stroke volume (SV) from points A (normal operating point) to B. Decreasing venous return decreases preload and stroke volume (point C).
+
+<br>
+
+⑤ Ventricular preload is related to the extent of ventricular filling (EDV) and the sarcomere length. Increased preload increases the force of contraction and SV (Frank-Starling mechanism).
+
+<center>![](figures/87.png)</center>
+
+> **Independent effects of increasing venous return on left ventricular (LV) pressure–volume loops** This diagram shows the acute response to an increase and decrease in venous return. It assumes no cardiac or systemic compensation and that aortic pressure remains unchanged. Increased venous return increases end-diastolic volume (EDV), but it normally produces only a small change in ESV; therefore, stroke volume (SV) is increased. The opposite occurs with a decrease in venous return. ESPVR, end-systolic pressure–volume relationship; EDPVR, end-diastolic pressure–volume relationship.
+
+<br>
+
+<center>![](figures/88.png)</center> <br>
+<center>![](figures/89.png)</center>
+
+> **Cardiac muscle isotonic contractions with increased afterload** The right panel shows how muscle length and tension are measured in vitro. The lower end of the muscle is attached to a weight (load) that is lifted up from an immovable platform as the muscle develops tension and shortens (ΔL). A bar attached to the top of the muscle can be moved to adjust initial muscle length (preload). The left panel shows changes in tension and length during contraction. The periods from a to b and from c to d represent periods of isometric contraction and relaxation, respectively. Muscle shortening (ΔL) occurs between b and c, which occurs when the developed tension (ΔT) exceeds the load. The dashed red lines show the tension and length responses to an increase in afterload but at the same preload. Therefore, increased afterload decreases the magnitude of shortening and the maximal velocity of shortening.
+
+<br>
+
+<center>![](figures/90.png)</center>
+
+> **Force–velocity relationship** Increased afterload (inset: curves a to c) decreases the degree of muscle shortening and maximal velocity of shortening at a given preload. Plotting the maximal shortening velocities for a, b, and c against the afterload generates the force–velocity relationship, in which increased afterload (which requires increased force generation) decreases velocity of shortening by the muscle fiber. The x-intercept represents the maximal isometric force that occurs when the load exceeds the muscle's force-generating capacity, thus preventing muscle shortening; the y-intercept represents the maximal velocity of shortening (Vmax) extrapolated to zero load.
+
+<br>
+
+<center>![](figures/91.png)</center>
+
+> **Effects of changes in preload on the force–velocity relationship** At a given afterload (vertical dashed line through point a), increasing the preload increases the velocity of shortening and decreasing preload decreases velocity. Furthermore, increasing the preload shifts the x-intercept to the right, which represents an increase in isometric force generation (Fmax). Note that y-intercept, which is the maximal velocity of shortening (Vmax) extrapolated to zero load, does not change when preload is altered. The decrease in shortening velocity that occurs in response to an increase in afterload (a to b) can be offset by an increase in preload (b to c).
+
+<br>
+
+<center>![](figures/92.png)</center>
+
+> **Effects of afterload on Frank-Starling curves** An increase in afterload shifts the Frank-Starling curve downward, whereas a decrease in afterload shifts the Frank-Starling curve upward. Therefore, at a given preload (vertical dashed line), increased afterload decreases stroke volume and decreased afterload increases stroke volume.
+
+<br>
+
+<center>![](figures/93.png)</center>
+
+> **Independent effects of changes in afterload (aortic pressure) on steady-state left ventricular (LV) pressure–volume loops** Increased aortic pressure (↑afterload; solid red loop) decreases stroke volume (width of loop) and increases end-systolic volume (ESV), whereas decreased aortic pressure (↓afterload; dashed red loop) increases stroke volume and decreases end-systolic volume. Preload and inotropy are held constant in this illustration.
+
+<br>
+
+⑥ Ventricular afterload can be estimated by ventricular wall stress, which is the product of ventricular pressure and ventricular radius divided by the ventricular wall thickness. Increased afterload decreases the velocity of fiber shortening during contraction, which decreases the SV.
+
+<center>![](figures/94.png)</center>
+
+> **Effects of increased inotropy on the length–tension relationship for cardiac muscle** Increasing inotropy (e.g., by stimulating the cardiac muscle with norepinephrine) shifts the total tension curve upward, which increases active tension development (vertical arrows) at any given preload length.
+
+<br>
+
+<center>![](figures/95.png)</center>
+
+> **Effects of inotropy on the force–velocity relationship** Increased inotropy increases the velocity of shortening at a given afterload (vertical dashed line through point a) and increases Vmax (y-intercept) and the maximal isometric force (x-intercept). Decreased inotropy produces opposite changes. The decrease in shortening velocity that occurs in response to an increase in afterload (a to b) can be offset by an increase in inotropy (b to c).
+
+<br>
+
+<center>![](figures/96.png)</center>
+
+> **Effects of inotropy on Frank-Starling curves** An increase in inotropy shifts the Frank-Starling curve upward, whereas a decrease in inotropy shifts the Frank-Starling curve downward. Therefore, at a given preload (vertical dashed line), increased inotropy increases stroke volume, and decreased inotropy decreases stroke volume.
+
+<br>
+
+<center>![](figures/97.png)</center>
+
+> **Independent effects of inotropic changes on steady-state left ventricular pressure–volume loops** Increased inotropy (solid red loop) shifts the ESPVR up and to the left, thereby increasing stroke volume and decreasing end-systolic volume (ESV). Decreased inotropy (dashed red loop) shifts the ESPVR down and to the right, thereby decreasing stroke volume and increasing end-systolic volume. LV, left ventricle. Preload and aortic pressure are held constant in this illustration.
+
+<br>
+
+<center>![](figures/98.png)</center>
+
+<br>
+
+⑦ Inotropy is the property of a cardiac myocyte that enables it to alter its tension development independent of changes in preload length. Increased inotropy enhances active tension development by individual muscle fibers and increases ventricular pressure development, ejection velocity, and SV at a given preload and afterload.
+
+<br>
+
+⑧ Preload, afterload, and inotropy are interdependent, meaning that a change in one usually leads to secondary changes in the others.
+
+<center>![](figures/99.png)</center>
+
+> **Interdependent effects of changes in preload, afterload, and inotropy on left ventricular pressure–volume loops** Panel A shows effects of increasing venous return (preload), which causes ↑↑EDV, ↑ESV, ↑SV, ↑systolic pressure, and ↑afterload. Panel B shows the effects of increasing arterial pressure (afterload), which causes ↑↑ESV, ↑EDV, and wSV. Panel C shows the effects of increasing inotropy, which causes ↑↓ESV, ↑EDV, ↑SV, ↑systolic pressure, and ↑afterload. EDV, end-diastolic volume; ESV, end-systolic volume; SV, stroke volume.
+
+<br>
+
+<center>![](figures/100.png)</center>
+
+> **Frank-Starling curves showing interactions between preload, afterload, and inotropy** Increased afterload or decreased inotropy shifts the Frank-Starling curve down and to the right, whereas the decreased afterload or increased inotropy shift the curve upward and to the left. The diagonal arrows show how changes in afterload and inotropy change both stroke volume (SV) and preload (LVEDP, left ventricular end-diastolic pressure).
+
+<br>
+
+⑨ Myocardial oxygen consumption can be calculated using the Fick principle, in which oxygen consumption equals the product of the CBF and the arteriovenous oxygen difference. Myocardial oxygen consumption is strongly influenced by changes in arterial pressure, heart rate, and inotropy; it is less influenced by changes in SV.
+
+<br>
+
+<center>![](figures/101.png)</center> <br>
+<center>![](figures/102.png)</center>
+
+## Heart sound
+
+<center>![](figures/62.png)</center> <br>
+<center>![](figures/63.png)</center> <br>
+<center>![](figures/64.png)</center> <br>
+<center>![](figures/65.png)</center>
+[S3 vs S4 Heart Sound](https://youtu.be/7J72wFtBdU4?t=59)
+
+<br>
+
+**Physiologic splitting**: Associated condition (inspiration)
+<center>![](figures/66.png)</center>
+[Physiologic splitting](https://youtu.be/ECrIdk8Fhb0)
+
+<br>
+
+**Widened or persistent splitting**: Delayed RV emptying
+ Pulmonic stenosis (PS), Right bundle branch block
+<center>![](figures/67.png)</center> 
+
+<br>
+
+**Fixed splitting**: Right atrial (RA) and RV volume (due to left-to-right shunt), atrial septal defect (ASD)
+<center>![](figures/68.png)</center> 
+[Fixed splitting, ASD](https://youtu.be/W8gg2S-mvSQ)
+
+<br>
+
+**Paradoxical splitting**: Pulmonic valve closure (P2) occurs before delayed aortic valve closure (A2), Aortic stenosis (AS) Hypertrophic obstructive cardiomyopathy (HOCM)
+<center>![](figures/69.png)</center> 
+
+<br>
+
+**Clicks**: A high-pitched sound occurring at the point of maximal opening of the valves, Occurs after S1 (systolic) <br>
+**Mid-systolic click (MSC)**: This audio clip is an example of an MSC heard in mitral valve prolapse.
+<center>![](figures/70.png)</center> 
+<center>![](figures/71.png)</center> 
+<br>
+
+**Snaps**: A high-frequency diastolic sound made by the opening of a stenotic mitral valve (most common)
+**Opening snap**: A mitral stenosis murmur can be heard in this audio clip. The low-pitched, rumbling murmur starts after the opening snap of the mitral valve (after S2) and finishes with a short crescendo up to S1.
+<center>![](figures/72.png)</center> 
+[MS](https://youtu.be/5oCPtZo4pUY)
+
+<br>
+
+>**Murmurs**: Murmurs are audible vibrations that can be produced by the following: <br>
+- Accelerated blood flow (e.g., increased preload) <br>
+- Flow through a narrow opening (e.g., valvular stenosis) <br>
+- Backward flow through an incompetent valve (e.g., valvular regurgitation) <br>
+- Not all murmurs indicate structural heart disease. <br>
+**Classification according to cardiac cycle** <br>
+**1. Systolic (occurs at or after S1 and ends before or at S2)** <br>
+1) Early systolic: heard in acute mitral or tricuspid regurgitation (TR) <br>
+2) Midsystolic: aortic or pulmonary stenosis <br>
+3) Holosystolic: <br>
+- Mitral or TR <br>
+- Ventricular septal defect (VSD) <br>
+4) Late systolic: mitral valve prolapse <br>
+**2. Diastolic (occurs at or after S2 and ends before or at S1)** <br>
+1) Early diastolic: aortic or pulmonary regurgitation <br>
+2) Mid diastolic: mitral stenosis, tricuspid stenosis (TS) <br>
+3) Late diastolic (or presystolic): <br>
+- Moderate-to-severe AR (Austin Flint murmur) <br>
+- Mitral stenosis <br>
+**3. Continuous (not confined to either systole or diastole)** <br>
+1) Patent ductus arteriosus murmur <br>
+2) Arteriovenous fistulas <br>
+
+<br>
+
+<center>![](figures/73.png)</center> 
+
+>**Patterns of heart murmurs (with examples)** <br>
+A: presystolic or late diastolic, crescendo murmur (tricuspid stenosis) <br>
+B: holosystolic murmur (mitral regurgitation) <br>
+C: midsystolic, crescendo-decrescendo murmur (aortic stenosis) <br>
+D: long systolic, crescendo-decrescendo murmur (pulmonic stenosis) <br>
+E: early diastolic, decrescendo murmur (aortic regurgitation) <br>
+F: mid-diastolic murmur (mitral stenosis) <br>
+G: short mid-diastolic murmur <br>
+H: continuous murmur (patent ductus arteriosus)
+
+<br>
+
+<center>![](figures/74.png)</center> 
+[AR](https://youtu.be/uZysrKXHJMM) https://youtu.be/uZysrKXHJMM
+
+<br>
+
+<center>![](figures/75.png)</center> 
+[MVP](https://youtu.be/sH_KmHIHR70)
+
+<br>
+
+<center>![](figures/76.png)</center> 
+[AS](https://youtu.be/pgDWz1JybzE)
+
+<br>
+
+<center>![](figures/77.png)</center> 
+
+> Abbreviation. TR: tricuspid regurgitation; VSD: ventricular septal defect; TS: tricuspid stenosis; ASD: atrial septal defect; MR: mitral regurgitation; MS: mitral stenosis.
+
+[holosystolic murmur, MR, TR, VSD](https://youtu.be/MzORJbyHTT0)
+
+<br>
+
+<center>![](figures/78.png)</center> 
+
+<br>
+
+<center>![](figures/79.png)</center>
+
+## Vascular function
+
+**Major types of blood vessels found within the circulation**
+<br>
+
+<center>![](figures/103.png)</center>
+
+<br>
+
+<center>![](figures/104.png)</center>
+
+>**Distribution of pressure in the systemic circulation** The red curve represents mean, whereas the gray band shows systolic and diastolic pressure found in arterial vessels. The greatest drop in mean pressure occurs across small arteries and arterioles.
+
+<br>
+
+① Regulation of arterial pressure and organ blood flow is primarily the function of the small resistance vessels—arteries and arterioles. Capillaries are the principal site for exchange, and most of the blood volume is found in the venous capacitance vessels.
+
+<center>![](figures/105.png)</center>
+
+> **Pressure pulse within the aorta** The pulse pressure is the difference between the maximal pressure (systolic) and the minimal pressure (diastolic). The mean pressure is approximately equal to the diastolic pressure plus one-third the pulse pressure.
+
+<br>
+
+<center>![](figures/106.png)</center>
+
+> **The relationship between cardiac output (CO), systemic vascular resistance (SVR), and mean arterial pressure (MAP)**  Increasing SVR increases MAP at any given cardiac output (dotted line), whereas decreasing SVR decreases MAP at a given cardiac output. This figure is based on Equation, in which MAP = (CO•SVR) + CVP, and assumes CVP = 0 mm Hg.
+
+<br>
+
+② Mean arterial pressure is determined by the product of cardiac output and systemic vascular resistance, plus CVP.
+
+<center>![](figures/107.png)</center>
+ 
+>**Effects of stroke volume, aortic compliance, and mean aortic pressure on aortic pulse pressure. Panel A.** At a given stroke volume (DV), the pulse pressure (DP) is determined by the aortic compliance (red curve). Panel B. Decreasing the aortic compliance (slope of red curve) increases the pulse pressure at a given stroke volume. Panel C. Increasing the stroke volume into the aorta increases the pulse pressure. Panel D. At higher mean aortic pressures (dotted line), a given stroke volume produces a greater pulse pressure because the aortic compliance is less at higher pressures and volumes. Panels A–C assume a constant mean aortic pressure (dotted line).
+
+<br>
+
+③ Aortic pulse pressure is primarily determined by ventricular stroke volume and aortic compliance.
+
+<center>![](figures/108.png)</center> 
+
+<br>
+
+<center>![](figures/109.png)</center>
+ 
+>**The effects of changes of vessel radius on flow through a single vessel** This quantitative relationship is derived from Poiseuille equation (Equation). Decreasing vessel radius (r) dramatically increases resistance and decreases flow (F) at constant perfusion pressure (ΔP) because flow is proportional to radius to the fourth power.
+
+<br>
+
+④ Vascular resistance is inversely related to the vessel radius to the fourth power, and it is directly related to vessel length and blood viscosity. Vessel radius is the most important factor for regulating resistance.
+
+<center>![](figures/110.png)</center>
+
+<br>
+
+⑤ The parallel arrangement of vascular beds in the body reduces overall resistance. Furthermore, because of this arrangement, a resistance change in one vascular bed has minimal influence on pressure and flow in other vascular beds.
+
+<center>![](figures/111.png)</center>
+ 
+>**Left panel.** During inspiration, intrapleural pressure (Ppl) decreases as the chest wall expands and the diaphragm descends (large red arrows). This increases the transmural pressure across the superior and inferior vena cava (SVC and IVC), right atrium (RA), and right ventricle (RV), which causes them to expand (small red arrows). This facilitates venous return and leads to an increase in atrial and ventricular filling and therefore preload. **Right panel.** During inspiration, Ppl and right atrial pressure (PRA) become more negative, which increases venous return. During expiration, Ppl and PRA become less negative and venous return falls. Numeric values for Ppl and PRA are expressed as mm Hg.
+
+<br>
+
+⑥ Changes in large artery resistance have little effect on total resistance of a vascular bed because these vessels normally comprise only a small percentage of the total resistance of a vascular bed. In contrast, changes in small artery and arteriolar resistances greatly affect total resistance.
+
+<br>
+
+⑦ Arteries and veins are normally in a partially constricted state (i.e., they possess vascular tone), which is determined by the net effect of vasoconstrictor and vasodilator influences acting upon the vessel.
+
+<center>![](figures/112.png)</center>
+
+<br>
+
+⑧ CVP is altered by changes in thoracic blood volume and venous compliance. Gravity, respiratory activity, and the pumping action of rhythmically contracting skeletal muscle have important influences on CVP.
+
+<center>![](figures/113.png)</center>
+
+>**Effects of cardiac output (CO) on mean aortic (MAP) and central venous (CVP) pressures. Left panel.** Qualitatively, a decrease in CO decreases arterial volume (VA) and MAP, decreases systemic flow and venous return (VR), and increases central venous volume (VV) and CVP. **Right panel.** Quantitative relationship between changes in MAP and CVP with changes in CO. Decreasing cardiac output results in a rise in CVP and a fall in MAP, although the change in MAP is much greater than the change in CVP. When cardiac output is zero, all pressures equilibrate at the mean circulatory filling pressure (Pmc).
+
+<br>
+
+<center>![](figures/114.png)</center>
+
+>**Systemic function curves** **Panel A** shows the effects of changes in cardiac output on right atrial pressure (PRA) and mean circulatory filling pressures (Pmc). Changes in blood volume (Vol) and venous compliance (Cv) cause parallel shifts in the curves and changing Pmc. **Panel B** shows how changes in systemic vascular resistance (SVR) alter the slope of the systemic function curves without changing Pmc.
+
+
+<br>
+
+<center>![](figures/115.png)</center>
+
+>**Cardiac function curves** Cardiac output is plotted as a function of right atrial pressure (PRA); normal (solid black), enhanced (red), and depressed curves (red) are shown. Cardiac performance, measured as cardiac output, is enhanced (curves shift up and to the left) by an increase in heart rate and inotropy and a decrease in afterload.
+
+<br>
+
+⑨ Cardiac output is strongly influenced by changes in systemic vascular function as described by cardiac and systemic vascular function curves. In the normal heart, cardiac output is limited by factors that determine vascular function.
+
+<center>![](figures/116.png)</center>
+
+>**Combined cardiac and systemic function curves: effects of exercise.** Cardiac output is plotted against right atrial pressure (PRA) to show the effects of altering both cardiac and systemic function. Point A represents the normal operating point described by the intercept between the normal cardiac and systemic function curves. Cardiac stimulation alone changes the intercept from point A to B. Cardiac stimulation coupled with decreased venous compliance (CV) shifts the operating intercept to point C. If systemic vascular resistance (SVR) also decreases, which is similar to what occurs during exercise, the new intercept becomes point D.
+ 
+<br>
+
+<center>![](figures/117.png)</center>
+
+<br>
+
+<center>![](figures/118.png)</center>
+
+>**Organization of sympathetic and vagal innervation of the heart and circulation.** The 10th cranial nerve (vagus; parasympathetic) arises from the brainstem. Preganglionic fibers (solid red line, A) travel to the heart, where they synapse with cell bodies of short postganglionic fibers that innervate the heart. Preganglionic sympathetic nerves (solid black lines) arise from thoracic (T1–T12) and lumbar segments (L1–L2) of the spinal cord. Some of these fibers (B) enter the paravertebral ganglia (sympathetic chain) on both sides of the spinal cord and travel within the ganglia to synapse above (B) or below their entry level, or at their level of entry (C). Postganglionic fibers (dotted black lines) from the cervical ganglia primarily innervate the heart, whereas those from thoracic ganglia travel to blood vessels and to the heart. Preganglionic fibers from lower thoracic and upper lumbar segments generally synapse in prevertebral ganglia (D), from which postganglionic fibers travel to blood vessels.
+
+<br>
+
+<center>![](figures/119.png)</center>
+
+<br>
+
+⑩ Preganglionic parasympathetic efferent nerves exit the medulla as the 10th cranial nerve and travel to the heart within the left and right vagus nerves and synapse at ganglia located within the heart; short postganglionic fibers innervate the myocardial tissue.
+
+<br>
+
+⑪ Preganglionic sympathetic efferent nerves exit from the spinal cord and synapse within paravertebral or prevertebral ganglia before sending out postganglionic fibers to target tissues in the heart and blood vessels.
+
+<center>![](figures/120.png)</center>
+ 
+>**Adrenergic and muscarinic receptors in the heart.**  Norepinephrine (NE) released from sympathetic nerve terminals binds to postjunctional adrenoceptors (order of functional importance: β1 > β2 > α1) to increase (+) inotropy, chronotropy, and dromotropy. Prejunctional α2-adrenoceptors serve as a feedback mechanism to inhibit NE release. Parasympathetic (vagal) nerves release acetylcholine (ACh), which binds to postjunctional M2 receptors to decrease (−) inotropy, chronotropy, and dromotropy. ACh also binds to prejunctional muscarinic receptors (M2) on sympathetic nerve terminals to inhibit NE release.
+
+<br>
+
+<center>![](figures/121.png)</center>
+
+>**Adrenergic and muscarinic receptors in blood vessels.** Norepinephrine (NE) released from sympathetic nerve terminals binds to postjunctional adrenoceptors (order of functional importance: α1 > α2 > β2). NE binding to postjunctional α-adrenoceptors causes increased (+) vascular tone (vasoconstriction), whereas binding to β2-adrenoceptors causes decreased (−) vascular tone (vasodilation). In a few specific organs (e.g., genitalia), ACh released by parasympathetic nerves binds to vascular M3 receptors to produce endothelial-dependent vasodilation mediated by nitric oxide.
+
+<br>
+
+<center>![](figures/122.png)</center>
+ 
+>**Effects of intravenous administration of epinephrine and norepinephrine on arterial pressure and heart rate.** A low dose of epinephrine (left panel) increases heart rate and arterial pulse pressure (it increases systolic and decreases diastolic pressure) with little change in mean arterial pressure. These changes occur because low concentrations of epinephrine preferentially bind to cardiac β1-adrenoceptors (produces cardiac stimulation) and vascular β2-adrenoceptors (produces systemic vasodilation). Mean pressure does not change very much because the increase in cardiac output is offset by the decrease in systemic vascular resistance. Norepinephrine (right panel) increases mean arterial pressure and arterial pulse pressure; heart rate transiently increases (β1-adrenoceptor stimulation) and then decreases owing to baroreceptor reflex activation of vagal efferents to the heart. Mean arterial pressure rises because norepinephrine binds to vascular α1-adrenoceptors, which increases systemic vascular resistance.
+
+<br>
+
+⑫ Sympathetic activation of the adrenal medulla stimulates the release of catecholamines, principally epinephrine. This hormone produces cardiac stimulation (via β1-adrenoceptors), and it either decreases (via vascular β2-adrenoceptors) or increases (via vascular α1- and α2-adrenoceptors) systemic vascular resistance, depending upon the plasma concentration.
+
+<center>![](figures/123.png)</center>
+
+>**Formation of angiotensin II and its effects on renal, vascular, and cardiac function.** Renin is released by the kidneys in response to sympathetic stimulation, hypotension, and decreased sodium delivery to distal tubules. Renin acts upon angiotensinogen to form angiotensin I (AI), which is converted to angiotensin II (AII) by angiotensin-converting enzyme (ACE). AII has several important actions: stimulates aldosterone release, which increases renal sodium reabsorption; directly stimulates renal sodium reabsorption; stimulates thirst; stimulates release of antidiuretic hormone (ADH; vasopressin); produces systemic vasoconstriction; activates the sympathetic nervous system; and causes cardiac and vascular smooth muscle hypertrophy. The overall systemic effect of increased AII is increased blood volume, venous pressure, and arterial pressure.
+
+<br>
+
+⑬ The renin–angiotensin–aldosterone system plays a major role in regulating renal excretion of sodium and water. The overall systemic effect of increased angiotensin II is increased blood volume, venous pressure, and arterial pressure.
+ 
+<center>![](figures/124.png)</center>
+
+>**Formation and cardiovascular/renal actions of atrial natriuretic peptide (ANP).** ANP, which is released from cardiac atrial tissue in response to atrial distension, sympathetic stimulation, increased angiotensin II, and endothelin, functions as a counterregulatory mechanism for the renin–angiotensin–aldosterone system. ANP decreases renin release, angiotensin II and aldosterone formation, blood volume, central venous pressure, and arterial pressure, and increases sodium excretion (natriuresis) and fluid loss (diuresis) by the kidneys. NEP, neprilysin; GFR, glomerular filtration rate; CVP, central venous pressure; CO, cardiac output; SVR, systemic vascular resistance.
+
+<br>
+
+⑭ Atrial natriuretic peptide (ANP), which is released by the atria primarily in response to atrial stretch, functions as a counterregulatory mechanism for the renin–angiotensin–aldosterone system. Therefore, increased ANP reduces blood volume, venous pressure, and arterial pressure.
+
+<center>![](figures/125.png)</center>
+
+>**Cardiovascular and renal effects of arginine vasopressin (AVP; ADH).** AVP release from the posterior pituitary is stimulated by angiotensin II, hyperosmolarity, decreased atrial receptor firing (usually in response to hypovolemia), and sympathetic activation. The primary action of AVP is on the kidney through V2 receptors to increase water reabsorption (antidiuretic effect), which increases blood volume. AVP also has direct vasoconstrictor actions at high concentrations by binding to vascular V1 receptors. Increased arterial pressure is the overall effect of increased AVP.
+
+<br>
+
+⑮ Arginine vasopressin (AVP; antidiuretic hormone), which is released by the posterior pituitary when the body needs to reduce renal loss of water, enhances blood volume and increases arterial and venous pressures. At high plasma concentrations, AVP constricts resistance vessels.
+
+
+## Exchange Function of the Microcirculation
+
+<center>![](figures/126.png)</center>
+
+>**Mechanisms of exchange across the capillary endothelium.** Lipid-soluble substances like oxygen and carbon dioxide readily exchange across capillary endothelial cells by diffusion. Water and electrolytes move across the endothelium primarily by bulk flow through intercellular clefts “pores”. Vesicular transport mechanisms move large molecules across the endothelium. Active transport mechanisms move ions and other small molecules across the endothelium.
+
+<br>
+
+① Diffusion is the primary mechanism for the exchange of gases (e.g., oxygen) and lipid-soluble substances across the capillary barrier. The rate of diffusion is directly related to the concentration difference of the molecule across the capillary wall
+
+<br>
+
+② Oxygen delivery to a tissue is determined by the product of blood flow and the oxygen content of the arterial blood, and the diffusion of oxygen from the blood into the tissue is driven by the PO2 gradient between blood and tissue.
+
+<center>![](figures/127.png)</center>
+
+>**Hemoglobin–oxygen dissociation curve.** Percent oxygen saturation of hemoglobin (% HbO2) has a sigmoidal relationship with the partial pressure of oxygen (PO2). In this example, 100% saturation corresponds to an arterial blood oxygen content (CaO2) of about 20 mL O2/100 mL blood. This assumes that the hemoglobin concentration is 15 g/100 mL blood and that 1.34 mL O2 bind to each gram of hemoglobin. Note that the amount of oxygen dissolved in the plasma is very small relative to the amount of oxygen bound to hemoglobin. The dissociation curve shifts to the right (decreased hemoglobin affinity for oxygen) with increased temperature and PCO2, and decreased pH.
+
+<br>
+
+③ Exchange of water and electrolytes across capillaries (and postcapillary venules) occurs primarily by bulk flow through intercellular clefts (“pores”) between endothelial cells. Bulk flow is governed by the same factors that determine the blood flow through vessels.
+
+<br>
+
+④ Movement of fluid across a capillary is determined by hydrostatic and colloid osmotic (oncotic) driving forces, the permeability of the capillary to fluid movement, and the surface area for exchange of fluid.
+
+<br>
+
+⑤ The net driving force that determines fluid movement is the net hydrostatic pressure difference across the capillary wall minus the opposing effective oncotic pressure difference across the capillary wall.
+ 
+<center>![](figures/128.png)</center>
+
+>**Net driving force for fluid movement across capillaries.** Hydrostatic and oncotic pressures within the capillary (Pc, πc) and the tissue interstitium (Pi, πi) determine the net driving force (NDF) for fluid movement out of the capillary (filtration) or into the capillary (reabsorption). The hydrostatic pressure difference favors filtration (red arrow) because Pc is greater than Pi. The oncotic pressure difference favors reabsorption (black arrow) because πc is greater than πi. The oncotic pressure difference is multiplied by the reflection coefficient (σ), a factor that represents the permeability of the capillary to the proteins responsible for generating the oncotic pressure.
+
+<br>
+
+⑥ Capillary hydrostatic pressure, which plays a major role in regulating transcapillary fluid exchange, is determined by arterial and venous pressures, and precapillary and postcapillary resistances.
+
+<br>
+
+⑦ Changes in venous pressure have a much greater quantitative influence on capillary pressure than do similar changes in arterial pressure.
+
+<br>
+
+⑧ Filtration occurs when the net driving force is greater than zero, which generally occurs at the arteriolar end of the capillary. Reabsorption occurs when the net driving force is less than zero, which generally occurs at the venular end of the capillary where capillary hydrostatic pressure is lower.
+
+<center>![](figures/129.png)</center>
+ 
+>**Model of capillary fluid exchange.** Assuming that Pi = 1, πc = 25, πi = 6 mm Hg, and σ = 1, and assuming that capillary hydrostatic pressure (Pc) at the beginning and end of the capillary are 30 mm Hg and 15 mm Hg, respectively, the net driving force [NDF = (Pc − Pi) − (πc − πi)] is greater than zero along most of the length of the capillary, which causes filtration (Filtr) to occur. Near the venular end of the capillary, the NDF is less than zero and reabsorption (Reab) occurs.
+
+<br>
+
+<center>![](figures/130.png)</center>
+ 
+>**Capillary filtration, reabsorption, and lymph flow.** Fluid filters out of the arteriolar end of the capillary and into the interstitium. Most of this fluid is reabsorbed at the venular end of the capillary, with the rest of the fluid entering terminal lymphatics to be carried away from the tissue and eventually returned to the blood. Fluid exchange is in balance (i.e., at a steady state) when filtration equals reabsorption plus lymph flow.
+
+<br>
+
+⑨ An increase in tissue fluid volume (edema) occurs when the rate of fluid filtration exceeds the sum of the rate of fluid reabsorption and lymphatic flow. 
+
+<br>
+
+⑩ Edema can be caused by increased capillary hydrostatic pressure, increased capillary permeability, decreased plasma oncotic pressure, or lymphatic blockage.
+
+<br>
+
+<center>![](figures/131.png)</center>
+
+## Cardiovascular pathophysiology
+
+<center>![](figures/132.png)</center>
+
+>**Mechanisms and causes of hypotension.** Ultimately, hypotension occurs because there is a reduction in cardiac output, systemic vascular resistance, or both.
+
+<br>
+
+① Arterial hypotension can result from mechanisms that reduce cardiac output or cause systemic vasodilation. Compensatory negative feedback mechanisms, triggered by hypotension, help to restore arterial pressure. Baroreceptor and renal mechanisms play a prominent role. Failure of these mechanisms and the expression of positive feedback mechanisms lead to irreversible shock and death.
+
+<center>![](figures/133.png)</center>
+
+>**Activation of baroreceptor mechanisms following acute blood loss (hemorrhage).** Blood loss reduces central venous pressure (cardiac preload), which decreases cardiac output and arterial pressure. Reduced firing of arterial baroreceptors activates the sympathetic nervous system, which stimulates cardiac function, and constricts resistance and capacitance vessels. These actions help to elevate (+) the reduced central venous pressure, stroke volume, cardiac output, and arterial pressure, and thereby help to restore arterial pressure.
+
+<br>
+
+<center>![](figures/134.png)</center>
+
+>**Activation of humoral mechanisms following acute blood loss (hemorrhage).** Decreased arterial pressure activates the sympathetic nervous system (baroreceptor reflex), which stimulates catecholamine release (Epi, epinephrine; NE, norepinephrine) from the adrenal medulla. This increases cardiac output (CO) and systemic vascular resistance (SVR), which elevates (+) arterial pressure. Renin release is stimulated by the enhanced sympathetic activity, increased circulating catecholamines, and hypotension; this leads to the formation of angiotensin II and aldosterone. Vasopressin release from the posterior pituitary is stimulated by angiotensin II, reduced atrial pressure (not shown), and increased sympathetic activity (not shown). These hormones act together to increase blood volume through their renal actions (sodium and water retention), which elevates arterial pressure. Angiotensin II and vasopressin also elevate arterial pressure by increasing SVR. These changes in systemic vascular resistance, blood volume, and cardiac output thereby help to restore the arterial pressure.
+
+<br>
+
+② Heart failure occurs when the heart is unable to supply adequate blood flow to organs, or when it is able to do so only at elevated filling pressures. It may involve systolic dysfunction (depressed ventricular inotropy) or diastolic dysfunction (impaired filling).
+
+>**Causes of Heart Failure** <br>
+1. Valvular disease and congenital defects, which place increased demands upon the heart <br>
+2. Cardiomyopathies (intrinsic diseases of the myocardium) of known origin (e.g., bacterial or viral; alcohol-induced) or unknown origin (idiopathic) <br>
+3. Infective or noninfective myocarditis (inflammation of the myocardium) <br>
+4. Chronic arrhythmias <br>
+
+<br>
+
+<center>![](figures/135.png)</center>
+
+>**Effects of systolic failure on left ventricular Frank-Starling curves.** Systolic failure depresses the Frank-Starling curve, which decreases stroke volume and leads to an increase in ventricular preload (LVEDP, left ventricular end-diastolic pressure). Point A, control point; point B, systolic failure.
+
+<br>
+
+<center>![](figures/136.png)</center>
+
+>**Effects of systolic, diastolic, and combined failure on left ventricular pressure–volume loops.** Panel A shows that systolic failure (HFrEF) decreases the slope of the end-systolic pressure–volume relationship and increases end-systolic volume. This causes a secondary increase in end-diastolic volume, which is augmented under chronic conditions by ventricular dilation that shifts the passive filling curve down and to the right (increased compliance). The net effect is that stroke volume and ejection fraction (EF) decrease. Panel B shows that diastolic failure (HFpEF) increases the slope of the end-diastolic pressure–volume relationship (passive filling curve) because of reduced ventricular compliance caused by either hypertrophy or decreased lusitropy. This reduces the end-diastolic volume and increases end-diastolic pressure. End-systolic volume may decrease slightly as a result of reduced afterload. The net effect is reduced stroke volume, but EF is normal. Panel C shows combined systolic and diastolic failure reduces end-diastolic volume and increases end-systolic volume so that stroke volume is greatly reduced; end-diastolic pressure may become very high and EF is reduced.
+
+<br>
+
+<center>![](figures/137.png)</center>
+
+>**Summary of neurohumoral changes associated with heart failure.** Activation of the sympathetic nervous system, the renin–angiotensin–aldosterone system, and vasopressin cause an increase in systemic vascular resistance, blood volume, and central venous pressure. Although increased central venous pressure helps to elevate (+) cardiac output by the Frank-Starling mechanism, it can also lead to pulmonary and systemic edema. The increased systemic vascular resistance, although helping to maintain arterial pressure, can depress (–) cardiac output further because of increased afterload. Increased atrial natriuretic peptide counterregulates the other hormonal systems.
+
+<br>
+
+③ The body compensates for heart failure by activating the sympathetic nervous system, renin–angiotensin–aldosterone system, and other circulating hormones. These compensatory mechanisms increase systemic vascular resistance, stimulate the heart, and increase blood volume.
+
+<br>
+
+<center>![](figures/138.png)</center>
+ 
+>**Effects of heart failure with reduced ejection fraction (HFrEF) on cardiac and systemic vascular function curves.** The normal operating intercept (point A) is shifted to point B when cardiac function alone is depressed by diminished inotropy. Compensatory increases in total blood volume (Vol) and systemic vascular resistance (SVR), along with reduced venous compliance (Cv), shift the systemic function to the right and decrease the slope (see Chapter 5). The new combined intercept (point C) represents partial compensation in cardiac output at the expense of a large increase in right atrial pressure (PRA).
+ 
+<br>
+
+<center>![](figures/139.png)</center>
+ 
+>**Effects of combined vasodilator and diuretic therapy on ventricular function in patients with chronic HFrEF.** Left panel: HFrEF shifts the Frank-Starling curve down and to the right (solid red curve), from point A to point B, thereby decreasing stroke volume and increasing left ventricular end-diastolic pressure (LVEDP). Administration of an arterial vasodilator reduces ventricular afterload and causes the curve to shift up and to the left (dashed red curve). When combined with a diuretic that reduces blood volume and ventricular filling pressures, the increase in stroke volume (point B to C) is accompanied by a large reduction in LVEDP. Right panel: HFrEF causes a rightward shift in the left ventricular pressure-volume loop, characterized by having a large end-diastolic volume, and a reduced stroke volume (SV; width of loop) and ejection fraction (EF). Administration of a vasodilator and diuretic shifts the HFrEF loop to the left, resulting in reduced end-diastolic volume and increased SV and EF.
+
+<br>
+
+④ Structural defects in heart valves result in valve stenosis and/or regurgitation, which affect pressure and volume relationships within the heart during systole and diastole, and lead to reduced cardiac output and elevated venous pressures.
+
+<center>![](figures/140.png)</center>
+
+>**Changes in cardiac pressures and volumes associated with chronic aortic valve stenosis in the absence of systolic failure.** The left panel shows that during ventricular ejection, left ventricular pressure (LVP) exceeds aortic pressure (AP) (the gray area represents the pressure gradient generated by the stenosis); a systolic murmur is present between S1 and S2, and left atrial pressure (LAP) is elevated. Aortic pressure may be reduced because of decreased stroke volume. The right panel shows the effects of aortic valve stenosis (red loop) on the left ventricular (LV) pressure–volume loop. The end-systolic volume is increased, with little or no change in end-diastolic volume; therefore, stroke volume is decreased. Ventricular hypertrophy reduces ventricular compliance, which elevates end-diastolic pressure at any given end-diastolic volume.
+
+<br>
+
+<center>![](figures/141.png)</center>
+
+>**Changes in cardiac pressures and volumes associated with chronic mitral valve stenosis in the absence of systolic failure.**  The left panel shows that during ventricular filling, left atrial pressure (LAP) exceeds left ventricular pressure (LVP) (the gray area represents the pressure gradient generated by the stenosis); a diastolic murmur is present between S2 and S1. Aortic pressure (AP) is reduced by severe mitral stenosis because of decreased cardiac output. The right panel shows the effects of mitral valve stenosis (red loop) on the left ventricular (LV) pressure–volume loop. End-diastolic volume is reduced because of impaired ventricular filling, and end-systolic volume may be slightly reduced because of reduced afterload; therefore, stroke volume is reduced.
+
+<br>
+
+<center>![](figures/142.png)</center>
+ 
+>**Changes in cardiac pressures and volumes associated with chronic aortic valve regurgitation in the absence of systolic failure.** The left panel shows that during ventricular relaxation, blood flows backwards from the aorta into the ventricle, causing a more rapid fall in aortic pressure (AP), which decreases diastolic pressure and increases aortic pulse pressure; left atrial pressure (LAP) increases because of blood backing up into the atrium as left ventricular end-diastolic volume and pressure increase. An increase in ventricular stroke volume (because of increased filling) leads to an increase in peak ventricular and aortic pressures; a diastolic murmur is present between S2 and S1. The right panel shows the effects of aortic valve regurgitation (red loop) on the left ventricular (LV) pressure–volume loop. End-diastolic volume and stroke volume are greatly increased, and there are no true isovolumetric phases because blood flows across the valve whenever there is a pressure difference across the valve.
+
+
+<br>
+
+<center>![](figures/143.png)</center>
+
+>**Changes in cardiac pressures and volumes associated with chronic mitral valve regurgitation in the absence of systolic failure.** The left panel shows that during ventricular contraction, the left ventricle ejects blood back into the left atrium as well as into the aorta, thereby increasing left atrial pressure (LAP), particularly the v wave. The aortic pressure (AP) and left ventricular pressure (LAP) may fall in response to a reduction in the net volume of blood ejected into the aorta; a systolic murmur is present between S1 and just beyond S2. The right panel shows the effects of mitral valve regurgitation (red loop) on the left ventricular (LV) pressure–volume loop. End-systolic volume is reduced because of decreased outflow resistance (afterload); end-diastolic volume is increased because increased left atrial pressure increases ventricular filling; stroke volume is greatly enhanced. There are no true isovolumetric phases because blood flows across the valve whenever there is a pressure difference across the valve.
+
+
+## Electrocardigram training
+1. 사지 유도(RA, LA, RL, LL)를 부착 후 심전도를 촬영하십시오.
+<br><br>
+
+2. 사지 유도 중 하나씩 연결하지 않았을 때 촬영한 심전도의 유도를 확인하십시오. 
+ - RA absent
+ - LA absent
+ - RL absent
+ - LL absent
+<br><br>
+
+3. 사지 유도를 잘못 연결했을 때 촬영한 심전도를 확인하고 정상 심전도와 비교하여 그 특징과 심전도가 그렇게 나온 이유를 설명하십시오.
+ - RA ↔ LA
+ - RA ↔ LL
+ - LA ↔ LL
+<br><br>
+
+4. 심전도의 speed를 25mm/s -> 50mm/s로 변화시켰을 때, 심전도를 확인하고 그 특징을 설명하십시오.
+ - Small square = ? sec
+ - Large square = ? sec
+<br><br>
+
+5. 심전도의 amplitude를 10mm/mV -> 20mm/mV로 변화시켰을 때, 심전도를 확인하고 그 특징을 설명하십시오.
+ - Small square = ? mV
+ - Large square = ? mV
+<br><br>
+
+6. 흉부 유도(precordial lead)의 위치를 확인해서 기록해봅시다.
+ - V1
+ - V2
+ - V3
+ - V4
+ - V5
+ - V6
+<br><br>
+
+7. Apple watch의 심전도 앱으로 심전도를 측정하는 원리를 설명하십시오.
+<br><br>
+
+
+
+**Reference** <br>
+Apple Watch의 심전도 앱으로 심전도 검사하기 https://support.apple.com/ko-kr/HT208955 <br>
+애플워치4 부정맥 기능 사용기 https://m.clien.net/service/board/use/13354639 <br>
+애플워치4로 알아보는
+웨어러블 의료기기의 딜레마 https://brunch.co.kr/@gazezaet/5 <br>
+
