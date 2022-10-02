@@ -3,7 +3,7 @@
 ## Blood
  
 *Blood consists of a protein-rich fluid known as plasma, in which are suspended cellular elements: white blood cells, red blood cells, and platelets.
-*8% of the body weight (5600mL in a 70kg man)
+*8% of the body weight (5600mL in a 70kg man) ^[this one]
  
 
 *55% of volume is plasma, 45% of volume is cellular components.
