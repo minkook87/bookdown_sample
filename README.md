@@ -1,13 +1,5 @@
-Welcome! 
-
-This is a minimal example of a book based on R Markdown and **bookdown** (https://github.com/rstudio/bookdown). 
-
-This template provides a skeleton file structure that you can edit to create your book. 
-
-The contents inside the .Rmd files provide some pointers to help you get started, but feel free to also delete the content in each file and start fresh.
-
-Additional resources:
-
-The **bookdown** book: https://bookdown.org/yihui/bookdown/
-
-The **bookdown** package reference site: https://pkgs.rstudio.com/bookdown
+Physiology
+==============================
+- 본 서적은 동아대학교 의과대학 **생리학 수업**을 위해 제작된 **수업용 자료** 입니다.
+- 다양한 생리학 교과서들의 내용을 참조하여 작성된 자료이니, 허락없이 배포하지 말아주시기 바랍니다.
+- 현재 `순환기계, 호흡기계, 혈액계` 병태생리 단원이 정리되어 있습니다.
